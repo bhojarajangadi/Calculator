@@ -6,3 +6,4 @@ c = int(sys.argv[3]) if len(sys.argv) > 3 else 0
 
 print("Addition:", a + b + c)
 print("subtraction:", a - b)
+print("Multiplication:",a * b)
